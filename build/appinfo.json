@@ -1,0 +1,30 @@
+{
+    "targetPlatforms": [
+        "aplite", 
+        "basalt", 
+        "chalk", 
+        "diorite"
+    ], 
+    "displayName": "pebbleFace", 
+    "name": "pebbleFace", 
+    "messageKeys": {
+        "dummy": 10000
+    }, 
+    "companyName": "Corina Miner", 
+    "enableMultiJS": true, 
+    "versionLabel": "1.0", 
+    "capabilities": [], 
+    "sdkVersion": "3", 
+    "appKeys": {
+        "dummy": 10000
+    }, 
+    "longName": "pebbleFace", 
+    "shortName": "pebbleFace", 
+    "watchapp": {
+        "watchface": true
+    }, 
+    "resources": {
+        "media": []
+    }, 
+    "uuid": "7cd05267-7c97-4484-be93-845bd9de2518"
+}

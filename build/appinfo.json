@@ -24,7 +24,19 @@
         "watchface": true
     }, 
     "resources": {
-        "media": []
+        "media": [
+            {
+                "type": "font", 
+                "name": "FONT_PERFECT_DOS_48", 
+                "file": "fonts/perfect-dos-vga.ttf", 
+                "compatibility": "2.7"
+            }, 
+            {
+                "type": "bitmap", 
+                "name": "IMAGE_BACKGROUND", 
+                "file": "images/pretty-cool-png.png"
+            }
+        ]
     }, 
     "uuid": "7cd05267-7c97-4484-be93-845bd9de2518"
 }
